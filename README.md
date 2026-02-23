@@ -1,4 +1,4 @@
-🫀 Heart Disease Risk Analysis Dashboard
+# Heart Disease Risk Analysis Dashboard
 📌 Project Overview
 
 The Heart Disease Risk Analysis Dashboard is an interactive data analytics project developed using SQL and Power BI. The objective of this project is to analyze patient medical records and identify key risk factors contributing to heart disease.
