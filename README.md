@@ -79,3 +79,7 @@ Middle-aged individuals (45–60 years) show higher disease frequency.
 Exercise-induced angina is strongly associated with heart disease cases.
 
 Average cholesterol levels are slightly higher among disease-positive patients.
+
+
+Link Of Dataset
+C:\Users\Dell\Desktop\HeartDiseasePrediction\heart_disease_Analysis.csv
